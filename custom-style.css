@@ -1,0 +1,63 @@
+footer.copyright .widget:last-child img {
+    width: auto;
+    height: 18px;
+    margin: 0;
+	
+	    user-drag: none; /* For modern browsers */
+    -webkit-user-drag: none; /* For Safari */
+    -webkit-pointer-events: none; /* Disable pointer events to prevent interaction */
+    pointer-events: none; /* Disable pointer events to prevent interaction */
+
+}
+
+.header-5 .site-header .site-header-cart a.cart-contents .shoptimizer-cart-icon .mini-count {
+    color: #ffffff;
+    background-color: #dd1d26 !important;
+}
+
+.woocommerce-pagination {
+visibility: hidden;
+}
+
+.site-content ol li, .site-content ul li {
+    margin-bottom: 0px;
+}
+
+
+.price ins, .summary .yith-wcwl-add-to-wishlist a:before, .site .commercekit-wishlist a i:before, .commercekit-wishlist-table .price, .commercekit-wishlist-table .price ins, .commercekit-ajs-product-price, .commercekit-ajs-product-price ins, .widget-area .widget.widget_categories a:hover, #secondary .widget ul li a:hover, #secondary.widget-area .widget li.chosen a, .widget-area .widget a:hover, #secondary .widget_recent_comments ul li a:hover, .woocommerce-pagination .page-numbers li .page-numbers.current, div.product p.price, body:not(.mobile-toggled) .main-navigation ul.menu li.full-width.menu-item-has-children ul li.highlight > a, body:not(.mobile-toggled) .main-navigation ul.menu li.full-width.menu-item-has-children ul li.highlight > a:hover, #secondary .widget ins span.amount, #secondary .widget ins span.amount span, .search-results article h2 a:hover {
+    color: #000000;
+}
+
+.product p.price {
+    font-size: 24px;
+		font-weight: 600;
+}
+
+ul.products li.product:not(.product-category) {
+    flex-wrap: wrap;
+    align-items: flex-start;
+    transition: all .2s;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+.single-product div.product .product_meta {
+    display: none;
+}
+
+body .woocommerce-tabs .panel h2, body .woocommerce-tabs .panel h3 {
+display: none !important;
+}	
+
+
+
+
+:focus {
+    outline: none !important;
+}
+
+
+small {
+    display:none;
+}
