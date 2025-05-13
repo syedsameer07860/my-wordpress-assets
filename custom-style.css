@@ -15,10 +15,6 @@ footer.copyright .widget:last-child img {
     background-color: #dd1d26 !important;
 }
 
-.woocommerce-pagination {
-visibility: hidden;
-}
-
 .site-content ol li, .site-content ul li {
     margin-bottom: 0px;
 }
